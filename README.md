@@ -4,14 +4,14 @@ Sentiment Analysis Program
 
 ## Usage
 ---
-# Compile the files
+### Compile the files
 
 ```
 javac SentimentAnalysis.java
 javac SentimentAnalysisBest.java
 ```
 
-# Run the programs (with evaluation mode)
+### Run the programs (with evaluation mode)
 ```
 java SentimentAnalysis/SentimentAnalysisBest evaluation
 
@@ -28,5 +28,5 @@ The SentimentAnalysisBest application encompasses all features of sentiment anal
 
 ## Acknowledgement 
 ---
-# RateItAll (test and train data)
+### RateItAll (test and train data)
 
